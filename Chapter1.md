@@ -216,7 +216,3 @@ The root of the paradoxical essence of Godel's theorem lies in the subtle interp
 Adding to this, the notion of “proof” is carefully distinguished in different contexts that are simultaneously at play. When we say that Gödel’s theorem cannot be proved *within* a formal system, we mean that the system cannot internally confirm the truth of all Gödelian statements. Yet, the theorem itself may still be *provable* in a meta-theoretical sense, which allows us to step outside the system to construct a valid proof.
 
 ---
-
-## Conclusion
-
-Gödel’s Incompleteness Theorem is a profound example of self-referential reasoning. Its key Gödel statements—*“This statement is not provable”* and *“This system cannot prove its consistency
